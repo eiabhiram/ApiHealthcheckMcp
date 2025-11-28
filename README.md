@@ -83,7 +83,3 @@ This server is built using:
 - [Model Context Protocol SDK](https://github.com/modelcontextprotocol/typescript-sdk)
 - TypeScript
 - Node.js Fetch API
-
-## License
-
-MIT
